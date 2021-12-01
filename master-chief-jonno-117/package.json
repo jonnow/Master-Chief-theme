@@ -1,0 +1,21 @@
+{
+    "name": "master-chief-jonno-117",
+    "displayName": "Master Chief Jonno 117",
+    "description": "A theme inspired by the Master Chief, in celebration of Halo Infinite's release.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Master Chief",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Master Chief-color-theme.json"
+            }
+        ]
+    }
+}
