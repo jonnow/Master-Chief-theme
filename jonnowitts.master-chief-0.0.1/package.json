@@ -1,7 +1,7 @@
 {
-    "name": "master-chief-jonno-117",
-    "displayName": "Master Chief Jonno 117",
-    "description": "A theme inspired by the Master Chief, in celebration of Halo Infinite's release.",
+    "name": "master-chief",
+    "displayName": "Master Chief",
+    "description": "Master Chief is a Visual Studio Code Extension by Jonno Witts. It is an homage to **Halo Infinite** and has been inspired by the Master Chief's Mjolnir armour (and the pink and purple of the Needler).",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.62.0"
