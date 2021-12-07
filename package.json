@@ -6,12 +6,12 @@
     "engines": {
         "vscode": "^1.62.0"
     },
-    "icon": "/images/masterchief-icon.png",
+    "icon": "images/master-chief-icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/jonnow/Master-Chief-theme.git"
     },
-    "publisher": "JonnoWitts",
+    "publisher": "jonnowitts",
     "license": "SEE LICENSE IN LICENSE.md",
     "galleryBanner": {
         "color": "#202614",
