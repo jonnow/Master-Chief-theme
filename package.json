@@ -1,20 +1,37 @@
 {
     "name": "master-chief",
     "displayName": "Master Chief",
-    "description": "Master Chief is a Visual Studio Code Extension by Jonno Witts. It is an homage to **Halo Infinite** and has been inspired by the Master Chief's Mjolnir armour (and the pink and purple of the Needler).",
-    "version": "0.0.1",
+    "description": "Master Chief is a Visual Studio Code Extension by Jonno Witts. It is an homage to Halo Infinite and has been inspired by the Master Chief's Mjolnir armour (and the pink and purple of the Needler).",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.62.0"
     },
+    "icon": "/images/masterchief-icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jonnow/Master-Chief-theme.git"
+    },
+    "publisher": "JonnoWitts",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "galleryBanner": {
+        "color": "#202614",
+        "theme": "dark"
+      },
+    "keywords": [
+        "Theme",
+        "Dark theme",
+        "Halo"
+    ],
     "categories": [
-        "Themes"
+        "Themes",
+        "Other"
     ],
     "contributes": {
         "themes": [
             {
                 "label": "Master Chief",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Master Chief-color-theme.json"
+                "path": "/themes/Master-Chief-color-theme.json"
             }
         ]
     }
