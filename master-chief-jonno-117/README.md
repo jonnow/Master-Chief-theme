@@ -1,13 +1,17 @@
-# README
-## This is the README for your extension "master-chief-jonno-117"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Master Chief - Visual Studio Code Extension
+---
+Master Chief is a Visual Studio Code Extension by [Jonno Witts](https://www.jonnowitts.com).
+It is an homage to **Halo Infinite** and has been inspired by the Master Chief's Mjolnir armour (and the pink and purple of the Needler).
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Colours have been checked against the [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/) to try and ensure good contrast for usage. As much as possible I have attempted to achieve WCAG AAA contrast.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+In addition to the colour theme I have created an Adobe XD tool to create your own VSCode colour schemes which can be found in the project folder.
 
-**Enjoy!**
+## Feedback, issues, and contributions
+If you have any feedback or would like to contribute please send me a [Tweet](https://twitter.com/jonnowitts), start a Pull Request, or open an issue ticket.
+
+## Changelog
+
+### Halo Infinite Released - 08.12.2021
+### Mark I - 07.12.2021
+Initial release
