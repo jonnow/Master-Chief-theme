@@ -23,6 +23,9 @@ In addition to the colour theme I have created an Adobe XD tool to create your o
 If you have any feedback or would like to contribute please send me a [Tweet](https://twitter.com/jonnowitts), start a Pull Request, or open an issue ticket.
 
 ## Changelog
+### Mark I 0.1
+- Added JavaScript object property specific styles e.g. foo.bar.ID - bar and ID now have separate styles
+- Added instructions on how to find the names of undefined scopes so they can be styled
 
 ### Halo Infinite Released! - 08.12.2021
 ### Mark I - 07.12.2021
