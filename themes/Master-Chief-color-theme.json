@@ -272,6 +272,16 @@
 			}
 		},
 		{
+			"name": "Boolean variable",
+			"scope": [
+				"constant.language.boolean.true.js",
+				"constant.language.boolean.false.js"
+			],
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"name": "String, Symbols, Inherited Class, Markup Heading",
 			"scope": [
 				"string",
@@ -481,6 +491,34 @@
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#E45E5E"
+			}
+		},
+		{
+			"name": "JS variable object", // e.g a variable name var FOO where FOO is the colour in question. Also FOO.params.id for instance just scopes to the FOO part.
+			"scope": [
+				"variable.other.object.js"
+			],
+			"settings": {
+				"foreground": "#FFC35C"
+			}
+		},
+		{
+			"name": "JS variable object property", // e.g. a variable property foo.BAR where BAR is the colour in question
+			"scope": [	
+				"variable.other.object.property.js"
+			],
+			"settings": {
+				"foreground": "#976de6"
+			}
+		},
+		{
+			"name": "JS variable property", // e.g. a variable property foo.bar.ID where ID is the colour in question
+			"scope": [	
+				"variable.other.property.js"
+			],
+			"settings": {
+				"foreground": "#57E3F2",
+				"fontStyle": "italic"
 			}
 		},
 		{
