@@ -2,6 +2,8 @@
 	"name": "Master Chief",
 	"type": "dark",
 	"colors": {
+		
+
 		"editor.background": "#1d1f1a",
 		"editor.foreground": "#cfcfcf",
 
@@ -123,6 +125,28 @@
 		// "settings.numberInputBackground": "#28272d",
 		// "settings.textInputBackground": "#28272d",
 		// "settings.focusedRowBackground": "#28272d"
+
+		"terminal.foreground":"#dddad6",
+		"terminal.ansiBlack":"#1D2021",
+		"terminal.ansiBrightBlack":"#665C54",
+		"terminal.ansiBrightBlue":"#0D6678",
+		"terminal.ansiBrightCyan":"#8BA59B",
+		"terminal.ansiBrightGreen":"#237e02",
+		"terminal.ansiBrightMagenta":"#8F4673",
+		
+		"terminal.ansiBrightWhite":"#FDF4C1",
+		"terminal.ansiBrightYellow":"#FAC03B",
+		"terminal.ansiBlue":"#00a1f9",
+		"terminal.ansiCyan":"#8BA59B",
+		"terminal.ansiGreen":"#95C085",
+		"terminal.ansiMagenta":"#8F4673",
+		
+		"terminal.ansiWhite":"#A89984",
+		"terminal.ansiYellow":"#FAC03B",
+		"terminal": "#ff0000",
+		"debugConsole.errorForeground": "#f90000b9",
+		"debugConsole.infoForeground": "#00a1f9"
+	
 	},
 	"tokenColors": [
 		{
@@ -796,6 +820,18 @@
 			],
 			"settings": {
 				"foreground": "#EEFFFF"
+			}
+		},
+		{
+			"name": "PHP - Open/Closing tags",
+			"scope": [
+				"punctuation.section.embedded.begin.php",
+				"punctuation.section.embedded.end.php",
+				"meta.embedded.block.php",
+				"text.html.php"
+			],
+			"settings": {
+				"foreground": "#379AD9"
 			}
 		}
 	]
